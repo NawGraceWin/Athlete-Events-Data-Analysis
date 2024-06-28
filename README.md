@@ -68,17 +68,3 @@ Identify key factors that influence performance outcomes.
  
   
   This project demonstrates the use of SQL for comprehensive analysis of athlete performance data, providing valuable insights and actionable recommendations to enhance training and event management.
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
